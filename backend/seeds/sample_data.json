@@ -1,0 +1,162 @@
+[
+  {
+    "username": "amit23",
+    "email": "amit23@example.com",
+    "password": "pass123",
+    "name": "Amit",
+    "age": 23,
+    "interests": ["music", "tech", "sports"]
+  },
+  {
+    "username": "sanya22",
+    "email": "sanya22@example.com",
+    "password": "sanya@123",
+    "name": "Sanya",
+    "age": 22,
+    "interests": ["tech", "music", "reading"]
+  },
+  {
+    "username": "nikhil24",
+    "email": "nikhil24@example.com",
+    "password": "nikhil@pass",
+    "name": "Nikhil",
+    "age": 24,
+    "interests": ["sports", "gaming", "tech"]
+  },
+  {
+    "username": "tina21",
+    "email": "tina21@example.com",
+    "password": "tina$21",
+    "name": "Tina",
+    "age": 21,
+    "interests": ["travel", "music", "fashion"]
+  },
+  {
+    "username": "raj25",
+    "email": "raj25@example.com",
+    "password": "raj@25",
+    "name": "Raj",
+    "age": 25,
+    "interests": ["fitness", "tech", "gaming"]
+  },
+  {
+    "username": "pooja20",
+    "email": "pooja20@example.com",
+    "password": "pooja@123",
+    "name": "Pooja",
+    "age": 20,
+    "interests": ["books", "art", "tech"]
+  },
+  {
+    "username": "anil27",
+    "email": "anil27@example.com",
+    "password": "anil@27",
+    "name": "Anil",
+    "age": 27,
+    "interests": ["photography", "music", "travel"]
+  },
+  {
+    "username": "neha26",
+    "email": "neha26@example.com",
+    "password": "neha#26",
+    "name": "Neha",
+    "age": 26,
+    "interests": ["tech", "reading", "gaming"]
+  },
+  {
+    "username": "vijay23",
+    "email": "vijay23@example.com",
+    "password": "vijay123",
+    "name": "Vijay",
+    "age": 23,
+    "interests": ["sports", "fitness", "gaming"]
+  },
+  {
+    "username": "shreya22",
+    "email": "shreya22@example.com",
+    "password": "shreya!22",
+    "name": "Shreya",
+    "age": 22,
+    "interests": ["painting", "fashion", "books"]
+  },
+  {
+    "username": "arjun24",
+    "email": "arjun24@example.com",
+    "password": "arjun@pass",
+    "name": "Arjun",
+    "age": 24,
+    "interests": ["coding", "tech", "music"]
+  },
+  {
+    "username": "meera20",
+    "email": "meera20@example.com",
+    "password": "meera123",
+    "name": "Meera",
+    "age": 20,
+    "interests": ["fashion", "fitness", "books"]
+  },
+  {
+    "username": "deepak28",
+    "email": "deepak28@example.com",
+    "password": "deepak@28",
+    "name": "Deepak",
+    "age": 28,
+    "interests": ["tech", "gaming", "sports"]
+  },
+  {
+    "username": "isha23",
+    "email": "isha23@example.com",
+    "password": "isha@23",
+    "name": "Isha",
+    "age": 23,
+    "interests": ["music", "dance", "travel"]
+  },
+  {
+    "username": "rohit21",
+    "email": "rohit21@example.com",
+    "password": "rohit@123",
+    "name": "Rohit",
+    "age": 21,
+    "interests": ["tech", "sports", "gaming"]
+  },
+  {
+    "username": "jyoti24",
+    "email": "jyoti24@example.com",
+    "password": "jyoti@24",
+    "name": "Jyoti",
+    "age": 24,
+    "interests": ["reading", "art", "music"]
+  },
+  {
+    "username": "kabir26",
+    "email": "kabir26@example.com",
+    "password": "kabir@pass",
+    "name": "Kabir",
+    "age": 26,
+    "interests": ["tech", "photography", "gaming"]
+  },
+  {
+    "username": "ananya22",
+    "email": "ananya22@example.com",
+    "password": "ananya@22",
+    "name": "Ananya",
+    "age": 22,
+    "interests": ["fashion", "music", "fitness"]
+  },
+  {
+    "username": "yash25",
+    "email": "yash25@example.com",
+    "password": "yash@25",
+    "name": "Yash",
+    "age": 25,
+    "interests": ["tech", "sports", "books"]
+  },
+  {
+    "username": "shruti20",
+    "email": "shruti20@example.com",
+    "password": "shruti@20",
+    "name": "Shruti",
+    "age": 20,
+    "interests": ["dance", "fashion", "art"]
+  }
+]
