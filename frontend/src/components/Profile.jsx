@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
 
+const BASE_URL = import.meta.env.MODE === "development" ? "http://localhost:3000" : "";
+
 const Profile = () => {
   const username = localStorage.getItem('username');
   const authUserId = localStorage.getItem('auth_user_id');
@@ -14,7 +16,7 @@ const Profile = () => {
     // Fetch profile
     const fetchProfile = async () => {
       try {
-        const res = await fetch(`http://localhost:3000/users/${authUserId}`);
+        const res = await fetch(`${BASE_URL}/users/${authUserId}`);
         const data = await res.json();
         setProfile(data);
       } catch (err) {
